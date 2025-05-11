@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Meu Repositório no GitHub</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Bem-vindo ao meu Repositório!</h1>
+        <p>Aqui você encontra meus principais projetos.</p>
+    </header>
+
+    <section class="repositorios">
+        <div class="repositorio">
+            <h2><a href="https://github.com/seu-usuario/nome-do-repo" target="_blank">📁 Projeto 1</a></h2>
+            <p>Descrição do projeto 1.</p>
+        </div>
+
+        <div class="repositorio">
+            <h2><a href="https://github.com/seu-usuario/nome-do-repo2" target="_blank">📁 Projeto 2</a></h2>
+            <p>Descrição do projeto 2.</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>© 2025 - Desenvolvido por Seu Nome</p>
+    </footer>
+</body>
+</html>
